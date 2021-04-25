@@ -3,9 +3,9 @@
 
 An example project for [Working with web content offline in SwiftUI apps](https://blog.artemnovichkov.com/swiftui-offline) article.
 
-<p align="center">
-  <img src="./.github/screenshot_ios.png" width=40%/>
-  <img src="./.github/screenshot_mac.png" width=40%/>
+<p align="center", width="100%"/>
+  <img src=".github/screenshot_ios.png" width="30%"/>
+  <img src=".github/screenshot_mac.png" width="50%"/>
 </p>
 
 ## Author
