@@ -10,7 +10,7 @@ An example project for [Working with web content offline in SwiftUI apps](https:
 
 ## Author
 
-Artem Novichkov, https://www.artemnovichkov.com/about
+Artem Novichkov, https://www.artemnovichkov.com/
 
 ## License
 
